@@ -21,5 +21,35 @@ This is a basic web application that demonstrates the drag-and-drop functionalit
 
 ---
 
-## 📁 Project Structure
+
+
+---
+
+## 🚀 How to Run
+
+1. Clone or download the repository.
+2. Open `index.html` in your browser.
+3. Drag and drop the list items between the boxes!
+
+---
+
+## ✨ Screenshots
+
+Coming soon! *(Add a screenshot of your UI here if you'd like)*
+
+---
+
+## 📌 To-Do / Future Improvements
+
+- Add animations during drag and drop
+- Save positions using localStorage
+- Make it mobile responsive
+- Add a "Reset" button
+
+---
+
+## 💖 Author
+
+Made with 💙 by DEVYANSH SHARMA
+
 
